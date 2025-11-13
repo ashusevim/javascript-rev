@@ -1,5 +1,5 @@
 const user = {
-	name: "Ashish Prajapati",
+	name: "Alex Carry",
 	greets: function(){
 		console.log(this.name);
 	}
